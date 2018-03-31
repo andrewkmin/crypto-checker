@@ -1,9 +1,4 @@
 # Crypto Checker
-
-![Alt text](./screenshots/Screenshot1.png?raw=true "Image 1") 
----
-![Alt text](./screenshots/Screenshot2.png?raw=true "Image 2") 
-
 ## Description:
 Lightweight Chrome extension that allows you to quickly check the price of a token/currency, as well as save that search so you can potentially extract patterns from the behavior exhibited when checking prices
 
@@ -16,3 +11,10 @@ Lightweight Chrome extension that allows you to quickly check the price of a tok
 * Create React App
 * MongoDB/Mongoose
 * Coinmarketcap API
+* Material design
+
+---
+
+Image 1             |  Image 2
+:-------------------------:|:-------------------------:
+![Image 1](./screenshots/Screenshot1.png?raw=true "Image 1")   |  ![Image 2](./screenshots/Screenshot2.png?raw=true "Image 2") 
