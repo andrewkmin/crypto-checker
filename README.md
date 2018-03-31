@@ -1,7 +1,7 @@
 # Crypto Checker
 
 ![Alt text](./screenshots/Screenshot1.png?raw=true "Image 1") 
-
+---
 ![Alt text](./screenshots/Screenshot2.png?raw=true "Image 2") 
 
 ## Description:
